@@ -1,0 +1,39 @@
+<table border="1" cellpadding="1" cellspacing="1" style="width:70%;">
+	<tbody>
+		<tr>
+			<td bgcolor="#C00000" rowspan="1" style="width:20%;">
+				<p>&#160;</p>
+
+				<p>&#160;</p>
+
+				<p>&#160;</p>
+				&#160; &#160; &#160; &#160;&#160;<span style="font-size:18px;"><img height="40%" src="https://impcpqtest--cpq--c.cs71.content.force.com/servlet/servlet.ImageServer?id=0154D00000065gR&amp;oid=00D4D0000008gtF&amp;lastMod=1511426836000" width="60%" /></span>
+			</td>
+			<td align="center" rowspan="2" style="width:80%">
+				<p>&#160;
+				<img height="60%" src="https://impcpqtest--cpq--c.cs71.content.force.com/servlet/servlet.ImageServer?id=0154D0000005Mtz&amp;oid=00D4D0000008gtF&amp;lastMod=1507032626000" width="40%" />&#8203;&#8203;<br />
+				<span style="font-size:20px;font-family: calibri"><strong>&#160; &#160; &#160; &#160; &#160; Proposal For&#160;</strong><span style="font-size: 20px;font-family: calibri;">{!quote.SBQQ__Opportunity2__c}</span></span><span style="font-size:10px;font-family:calibri"><strong>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; </strong></span></p>
+
+				<table border="1" cellpadding="1" cellspacing="1" style="width:70%;">
+					<tbody>
+						<tr>
+							<td border="0"><span style="font-size:10px;font-family:calibri"><strong>Imprivata contact name:&#160;</strong><span style="font-size:10px;font-family:calibri;">{!quote. SBQQ__PrimaryContact__c}</span></span></td>
+						</tr>
+						<tr>
+							<td border="0"><span style="font-size:10px;font-family:calibri"><strong>Title:&#160;</strong></span></td>
+						</tr>
+						<tr>
+							<td border="0"><span style="font-size:10px;font-family:calibri"><strong>Phone#:&#160;</strong><span style="font-size:10px;font-family:calibri;">{!quote.CPQ_Bill_To_Phone__c}</span></span></td>
+						</tr>
+						<tr>
+							<td border="0"><span style="font-size:10px;font-family:calibri"><strong>Email:&#160;</strong><span style="font-size:10px;font-family:calibri;">{!quote.CPQ_Bill_To_Email__c}</span></span></td>
+						</tr>
+						<tr>
+							<td border="0"><span style="font-size:10px;font-family:calibri"><strong>Proposal Expiration:&#160;</strong></span></td>
+						</tr>
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</tbody>
+</table>
