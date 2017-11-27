@@ -20,7 +20,7 @@
 							<td border="0"><span style="font-size:10px;font-family:calibri"><strong>Imprivata contact name:&#160;</strong><span style="font-size:10px;font-family:calibri;">{!quote. SBQQ__PrimaryContact__c}</span></span></td>
 						</tr>
 						<tr>
-							<td border="0"><span style="font-size:10px;font-family:calibri"><strong>Title:&#160;</strong></span></td>
+			  				<td border="0"><span style="font-size:10px;font-family:calibri"><strong>Title:&#160;</strong></span></td>
 						</tr>
 						<tr>
 							<td border="0"><span style="font-size:10px;font-family:calibri"><strong>Phone#:&#160;</strong><span style="font-size:10px;font-family:calibri;">{!quote.CPQ_Bill_To_Phone__c}</span></span></td>
